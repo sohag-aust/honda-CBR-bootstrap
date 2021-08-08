@@ -1,0 +1,111 @@
+.banner-color {
+    background: #264653;
+}
+
+.btn-login {
+    color: white;
+    width: 91;
+    height: 44;
+    background-color:#E76F51;
+    border-radius: 5px;
+    margin-left: 100px;
+    margin-right: 156px;
+}
+
+.banner-details {
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 24px;
+    letter-spacing: 0px;
+    color:#E5E5E5;
+}
+
+.purchase-btn {
+    width: 168px;
+    height: 44px;
+    background: #E76F51;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.featured-bike img{
+    width: 288px;
+    height: 243px;
+    -webkit-box-reflect: below 1px linear-gradient(transparent, transparent, #000f);
+}
+
+.honda{
+    margin-top: 80px;
+}
+
+.latest-news {
+    margin-top: 230px;
+}
+
+.read-more-btn-active {
+    width: 160px;
+    height: 57px;
+    background-color: #E76F51;
+    color: white;
+    padding: 15px;
+}
+
+.read-more-btn {
+    width: 160px;
+    height: 57px;
+    border: 1px solid #E76F51;
+    color: #E76F51;
+    padding: 15px;
+}
+
+.happy-client {
+    margin-top: 130px;
+}
+
+.client-img {
+    width: 149px;
+    height: 149px;
+}
+
+.fas.fa-star.filled {
+    font-size: 15px;
+    color: #E77C40;
+}
+
+.icon-b {
+    font-size: 15px;
+    color: #E77C40;
+}
+
+.regina {
+    
+    color: #23A6F0;
+}
+
+/* color is changed when accordion is opened */
+.accordion-button:not(.collapsed) {
+    color: black;
+}
+
+.accordion-desc {
+    color: #7E848C;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 100;
+}
+
+.footer-color {
+    background-color: #0B0D17;
+}
+
+.footer-text {
+    color: #ffffff83;
+}
+
+.footer-text-p {
+    color: #ffffff83;
+    text-decoration: underline;
+}
